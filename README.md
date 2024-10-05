@@ -1,3 +1,3 @@
 # Hi! 👋 I'm Ricardo
 
-I am student of science computing at EPN
+I am a computer science ingenieer
